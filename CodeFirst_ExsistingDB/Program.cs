@@ -10,6 +10,7 @@ namespace CodeFirst_ExsistingDB
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HelloWorld");
         }
     }
 }
